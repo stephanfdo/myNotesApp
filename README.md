@@ -74,7 +74,7 @@ Enable Firebase Authentication and Firestore Database in Firebase Console
 Project Configuration
 
 Clone the repository:
-Copygit clone https://github.com/yourusername/mynotes.git
+Copygit clone https://github.com/stephanfdo/myNotesApp.git
 
 Open the project in Android Studio
 Sync the project with Gradle files
